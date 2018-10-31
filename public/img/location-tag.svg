@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>33505555-497B-4881-B211-0455F92A0044</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M17.8033002,5.1834761 C14.8743671,2.27217463 10.1256329,2.27217463 7.19669979,5.1834761 C4.26776674,8.09572494 4.26776674,12.8165239 7.19669979,15.7278254 L12.4995312,21 L17.8033002,15.7278254 C20.7322333,12.8165239 20.7322333,8.09572494 17.8033002,5.1834761 Z M12.4995312,12.9472625 C11.8732421,12.9472625 11.2853928,12.7009434 10.8419276,12.2537797 C9.92780799,11.3300833 9.92780799,9.8275372 10.8419276,8.90384084 C11.2844553,8.45667706 11.8732421,8.21035803 12.4995312,8.21035803 C13.1258204,8.21035803 13.7146072,8.45667706 14.1571348,8.90384084 C15.0712545,9.8275372 15.0712545,11.3310307 14.1571348,12.2537797 C13.7146072,12.7009434 13.1258204,12.9472625 12.4995312,12.9472625 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons/location-tag">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="Color/Primary" mask="url(#mask-2)" fill="#694E9F">
+                <rect id="Color" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
